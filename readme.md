@@ -9,7 +9,7 @@ mvn opencell:deploy-scripts@deploy-scripts
 It is possible also to specify a different Opencell URL and a specific file :
 
 ```bash
-mvn opencell:deploy-scripts@deploy-scripts  -DjavaFile=src/main/java/com/opencell/script/SampleScript.java -Dopencell.url=http://integration.i.opencellsoft.com
+mvn opencell:deploy-scripts@deploy-scripts  -DjavaFile=src/main/java/com/opencell/script/SampleScript.java -Dopencell.url={url_opencell}
 ```
 
 ### Generate a postman Collection
