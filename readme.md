@@ -16,6 +16,6 @@ mvn opencell:deploy-scripts@deploy-scripts  -DjavaFile=src/main/java/com/opencel
 To export scripts to a Postman file for a later use, use the following command :
 
 ```bash
-mvn opencell:create-postman@create-postmanbash
+mvn opencell:create-postman@create-postman
 ```
 
