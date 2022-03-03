@@ -9,7 +9,7 @@
 
 	<properties>
 		<opencell-maven-plugin.version>1.0</opencell-maven-plugin.version>
-		<opencell.version>10.0.2</opencell.version>
+		<opencell.version>12.0.0</opencell.version>
 		<opencell.url>https://your_dns</opencell.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
