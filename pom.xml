@@ -15,16 +15,20 @@
 	</properties>
 
 	<repositories>
-        <repository>
-            <id>opencell-repo</id>
-            <url>http://nexus.int.opencell.work/repository/maven-public/</url>
-        </repository>
-    </repositories>
+		<repository>
+		    <id>opencell-repo</id>
+		    <url>https://nexus.int.opencell.work/repository/maven-public/</url>
+		</repository>
+    	</repositories>
 
 	<pluginRepositories>
 		<pluginRepository>
 			<id>opencell-repo</id>
 			<url>http://libs.opencellsoft.com/</url>
+		</pluginRepository>
+		<pluginRepository>
+			<id>opencell-repo</id>
+			<url>https://nexus.int.opencell.work/repository/maven-public/</url>
 		</pluginRepository>
 	</pluginRepositories>
 
